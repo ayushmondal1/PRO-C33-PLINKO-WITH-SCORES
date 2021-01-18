@@ -1,2 +1,2 @@
-# PRO-C33-PLINKO-WITH-SCORES
-PRO-C33: PLINKO WITH SCORES
+# Plinko-with-score
+Here I have created the plinko game with score in it.{project (WhitehatJR) C33}
